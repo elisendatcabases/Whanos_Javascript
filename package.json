@@ -1,0 +1,10 @@
+{
+    "name": "whanos-javascript",
+    "version": "1.0.0",
+    "description": "A simple JavaScript app for Whanos.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {}
+  }
